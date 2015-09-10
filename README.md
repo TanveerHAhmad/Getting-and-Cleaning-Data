@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data
 
-#### Tanveer Ahmad - README.md - 7/15/2015
+#### Tanveer Ahmad - README.md - 9/15/2015
 
 #### Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
 

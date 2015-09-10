@@ -1,7 +1,7 @@
 ##########################################################################################################
 ##
 ## Coursera Getting and Cleaning Data Course Project
-## Tanveer Ahmad - run_analysis.R - 7/15/2015
+## Tanveer Ahmad - run_analysis.R - 9/15/2015
 #
 # run_analysis.r File Description:
 #

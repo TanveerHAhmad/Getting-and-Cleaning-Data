@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Project
 
-#### Tanveer Ahmad - CookBook.md - 7/15/2015
+#### Tanveer Ahmad - CookBook.md - 9/15/2015
 
 ## Description
 
